@@ -17,7 +17,7 @@ if dateToday >= '2020-07-28' and dateToday <= '2020-08-28':
   print('Fractal 1-2 in progress')
 if dateToday >= '2020-09-03' and dateToday <= '2020-10-06':
   print('Fractal 3-4 in progress')
-if dateToday >= '2020-10-01' and dateToday <= '2020-11-20':
+if dateToday >= '2020-10-12' and dateToday <= '2020-11-20':
   print('Fractal 5-6 in progress')
 
 
@@ -33,7 +33,7 @@ if day == 'Monday':
     webbrowser.open('https://iitbhilai.webex.com/meet/b203', new=2)
 
   # check for fractal 5-6
-  if dateToday >= '2020-10-01' and dateToday <= '2020-11-20':
+  if dateToday >= '2020-10-12' and dateToday <= '2020-11-20':
 
     # Contemporary Indian Cinema: Beyond Bollywood
     if time >= '11:25:00' and time <= '12:50:00':
@@ -90,7 +90,7 @@ if day == 'Wednesday':
     webbrowser.open('https://iitbhilai.webex.com/meet/b203', new=2)
   
   # check for fractal 5-6
-  if dateToday >= '2020-10-01' and dateToday <= '2020-11-20':
+  if dateToday >= '2020-10-12' and dateToday <= '2020-11-20':
 
     # Concepts of Personality Psychology
     if time >= '15:55:00' and time <= '17:20:00':
@@ -102,7 +102,7 @@ if day == 'Wednesday':
 if day == 'Thursday':
   
   # check for fractal 5-6
-  if dateToday >= '2020-10-01' and dateToday <= '2020-11-20':
+  if dateToday >= '2020-10-12' and dateToday <= '2020-11-20':
 
     # Contemporary Indian Cinema: Beyond Bollywood
     if time >= '09:55:00' and time <= '11:20:00':
@@ -132,7 +132,7 @@ if day == 'Friday':
     webbrowser.open('https://meet.google.com/jpb-whwn-vjj', new=2)
 
   # check for fractal 5-6
-  if dateToday >= '2020-10-01' and dateToday <= '2020-11-20':
+  if dateToday >= '2020-10-12' and dateToday <= '2020-11-20':
 
     # Concepts of Personality Psychology
     if time >= '15:55:00' and time <= '17:20:00':
